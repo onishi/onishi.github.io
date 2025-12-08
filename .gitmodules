@@ -1,0 +1,18 @@
+[submodule "ai-tetris"]
+	path = ai-tetris
+	url = git@github.com:onishi/ai-tetris.git
+[submodule "ai-browser-game"]
+	path = ai-browser-game
+	url = git@github.com:onishi/ai-browser-game.git
+[submodule "ai-sutomatic-dev"]
+	path = ai-sutomatic-dev
+	url = git@github.com:onishi/ai-automatic-dev.git
+[submodule "ai-random-game-maker"]
+	path = ai-random-game-maker
+	url = git@github.com:onishi/ai-random-game-maker.git
+[submodule "ai-iteration"]
+	path = ai-iteration
+	url = git@github.com:onishi/ai-iteration.git
+[submodule "ai-action"]
+	path = ai-action
+	url = git@github.com:onishi/ai-action.git
