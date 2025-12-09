@@ -16,3 +16,6 @@
 [submodule "ai-action"]
 	path = ai-action
 	url = git@github.com:onishi/ai-action.git
+[submodule "ai-automatic-dev"]
+	path = ai-automatic-dev
+	url = git@github.com:onishi/ai-automatic-dev.git
